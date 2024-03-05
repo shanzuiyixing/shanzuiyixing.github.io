@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: https://github.com/shanzuiyixing/shanzuiyixing.github.io.git
   branch: master
-  message: "1"
+  message: "第二次测试"
